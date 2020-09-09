@@ -1,2 +1,2 @@
 # machineLearningTutorial
-A short course on machine learnning fundamentals.
+A short course on machine learning fundamentals.
